@@ -8,7 +8,7 @@ public class Parent {
 	}
 
 	public void show(){
-		System.out.println("child class show");
+		System.out.println("child classs show");
 	}
 
 }
